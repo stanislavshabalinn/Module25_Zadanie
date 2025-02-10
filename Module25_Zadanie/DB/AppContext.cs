@@ -1,5 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using DataAccessLayer.Entity;
+using Module25_Zadanie.Entity;
 
 
 namespace Module25_Zadanie.DB
@@ -11,6 +11,7 @@ namespace Module25_Zadanie.DB
 
         public AppContext()
         {
+            Database.EnsureDeleted();
             Database.EnsureCreated();
         }
 

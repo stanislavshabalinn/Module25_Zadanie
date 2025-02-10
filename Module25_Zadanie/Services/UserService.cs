@@ -1,5 +1,5 @@
 ﻿using Module25_Zadanie.BusinessLogicLayer.Models;
-using Module25_Zadanie.DataAccessLayer.Entity;
+using Module25_Zadanie.Entity;
 using Module25_Zadanie.DataAccessLayer.Repositories;
 using System.ComponentModel.DataAnnotations;
 

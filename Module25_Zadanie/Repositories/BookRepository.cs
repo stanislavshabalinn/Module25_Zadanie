@@ -1,4 +1,4 @@
-﻿using Module25_Zadanie.DataAccessLayer.Entity;
+﻿using Module25_Zadanie.Entity;
 
 namespace Module25_Zadanie.DataAccessLayer.Repositories
 {

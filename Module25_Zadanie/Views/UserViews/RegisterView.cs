@@ -1,7 +1,8 @@
-﻿using Module25_Zadani.BusinessLogicLayer.Models;
-using Module25_Zadani.BusinessLogicLayer.Services;
+﻿using Module25_Zadanie.BusinessLogicLayer.Models;
+using Module25_Zadanie.BusinessLogicLayer.Services;
 
-namespace Module25_Zadani.PresentationLogicLayer.Views.UserViews
+
+namespace Module25_Zadanie.PresentationLogicLayer.Views.UserViews
 {
     public class RegisterView
     {
